@@ -1,0 +1,7 @@
+Username,Email,Password,UserType
+testuser1,testuser1@gmail.com,123,Regular
+poweruser1,poweruser1@gmail.com,456,Power
+testuser2,testuser2@gmail.com,789,Regular
+adminuser1,adminuser@gmail.com,123,Admin
+adminuser2,aminuser@gmail.com,1234,Admin
+
